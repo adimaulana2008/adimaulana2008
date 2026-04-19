@@ -65,7 +65,6 @@
   > Password: `tamu`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2E9AFE?style=for-the-badge&logo=vercel&logoColor=white)](https://ptkti.alwaysdata.net/)
-*Source code available upon request.*
 
 ---
 
@@ -96,8 +95,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adimaulana2008)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://adimaulana2008.github.io/biodata.github.io/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#) *(Coming soon)*
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/#) *(Coming soon)*
+
 
 ---
 
