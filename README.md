@@ -1,69 +1,81 @@
-# 👋 Hi, I'm **Adi Maulana**!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi there, I'm [Your Name]
 
-> *Backend & System Architecture Enthusiast | 18 years old | Lifelong learner*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9AFE&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
-I'm a software developer focused on server-side logic and system architecture. I have experience building desktop applications with **C#** and web applications using **Laravel**. I'm highly committed to code efficiency and optimal database structures.
-
----
-
-## 🧠 About Me
-
-- 🎯 **Backend & Logic**: Proficient in Laravel (including **Spatie Role & Permission** implementation) and C# Windows Forms.
-- 🔌 **API Integration**: Experienced in integrating third‑party APIs, such as automated package tracking systems.
-- 🗄️ **Database**: Focused on MySQL with strict optimization rules (e.g., character limits on unique keys for maximum performance).
-- ☁️ **Deployment**: Familiar with managing hosting environments on **Alwaysdata** via SSH and Git‑based workflows.
+> *Building digital solutions with passion and precision.*
 
 ---
 
-## 📦 Featured Project
+## 🧑‍💻 About Me
 
-### 📝 Item Recording App (Laravel)
-
-An inventory management system built with **Laravel 10**, **MySQL**, and **Bootstrap 5**. It supports multi‑role authentication, full CRUD operations, search functionality, and reports for item receiving and retrieval. This project uses **Spatie Role & Permission** for access control and is deployed directly to Alwaysdata via Git.
-
-🔗 **Live Demo**: [https://ptkti.alwaysdata.net/](https://ptkti.alwaysdata.net/)  
-👤 **Username**: `tamu`  
-🔐 **Password**: `tamu`
-
-> *Log in with the credentials above to try out the recording, editing, and deletion features.*
+- 🔭 I’m currently working on **...**
+- 🌱 I’m learning **...**
+- 👯 I’m looking to collaborate on **...**
+- 🤔 I’m looking for help with **...**
+- 💬 Ask me about **Laravel, C#, MySQL, or system architecture**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **...**
 
 ---
 
-## 🌐 Socials
+## 🚀 Featured Projects
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adimaulana2008)
+### 📦 Project 1: Inventory Management System (Laravel)
+> A complete inventory system with multi‑role authentication, CRUD, and live reports.
+- **Tech**: Laravel 10, MySQL, Bootstrap, Spatie Role & Permission
+- **Demo**: [https://demo.example.com](https://demo.example.com)  
+  _Username: `demo` | Password: `demo`_
+- **Repo**: [github.com/yourname/project1](https://github.com/yourname/project1)
+
+### 🎯 Project 2: Package Tracker API Integration
+> Automated parcel tracking using third‑party API.
+- **Tech**: C# Windows Forms, REST API, Newtonsoft.Json
+- **Repo**: [github.com/yourname/project2](https://github.com/yourname/project2)
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=adimaulana2008&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=true" width="48%" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=adimaulana2008&theme=gruvbox&hide_border=false)
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=adimaulana2008&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
+</div>
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adimaulana2008&icon=0&color=0)
+## 🌐 Connect with Me
 
-<!-- This README is crafted with open source spirit and a passion for continuous learning -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## 📈 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+
+---
+
+⭐️ *Feel free to fork this template and make it your own!*
