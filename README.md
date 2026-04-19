@@ -1,81 +1,107 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi there, I'm [Your Name]
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9AFE&center=false&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
-
-> *Building digital solutions with passion and precision.*
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **...**
-- 🌱 I’m learning **...**
-- 👯 I’m looking to collaborate on **...**
-- 🤔 I’m looking for help with **...**
-- 💬 Ask me about **Laravel, C#, MySQL, or system architecture**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **...**
+<!-- Header & Animated Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2E9AFE&width=500&lines=Backend+%26+System+Architecture+Enthusiast;18+years+old;Lifelong+Learner" alt="Typing SVG" />
+  <br/>
+  <h1>👋 Hi, I'm Adi Maulana</h1>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- About Me / ɢᴛᴅ -->
+## 👨‍💻 About Me / ɢᴛᴅ
 
-### 📦 Project 1: Inventory Management System (Laravel)
-> A complete inventory system with multi‑role authentication, CRUD, and live reports.
-- **Tech**: Laravel 10, MySQL, Bootstrap, Spatie Role & Permission
-- **Demo**: [https://demo.example.com](https://demo.example.com)  
-  _Username: `demo` | Password: `demo`_
-- **Repo**: [github.com/yourname/project1](https://github.com/yourname/project1)
-
-### 🎯 Project 2: Package Tracker API Integration
-> Automated parcel tracking using third‑party API.
-- **Tech**: C# Windows Forms, REST API, Newtonsoft.Json
-- **Repo**: [github.com/yourname/project2](https://github.com/yourname/project2)
+- 🎯 **Backend & System Architecture Enthusiast** – 18-year-old software developer focused on server-side logic and efficient architectures.
+- 💼 Experienced in **desktop applications with C# (Windows Forms)** and **web applications using Laravel**.
+- 🔧 Highly committed to **code efficiency** and **optimal database structures**.
+- 🧠 **Backend & Logic:** Proficient in Laravel (Spatie Role & Permission implementation) and C#.
+- 🔌 **API Integration:** Experienced with third-party APIs (e.g., automated package tracking systems).
+- 🗄️ **Database:** MySQL with strict optimization rules (character limits on unique keys for maximum performance).
+- ☁️ **Deployment:** Managing hosting environments on Alwaysdata via SSH and Git-based workflows.
+- 🌐 **Portfolio:** [adimaulana2008.github.io/biodata.github.io](https://adimaulana2008.github.io/biodata.github.io/)  
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://adimaulana2008.github.io/biodata.github.io/)
 
 ---
 
+<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Languages**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks & Libraries**  
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%234e56e6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Servers & DevOps**  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Tools & Design**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+<!-- Featured Project -->
+## 🚀 Featured Project
+
+### 📦 Item Recording App (Laravel)
+
+> An inventory management system built with **Laravel 10**, **MySQL**, and **Bootstrap 5**. Supports multi-role authentication, full CRUD operations, search, and reports for item receiving/retrieval. Uses **Spatie Role & Permission** for fine-grained access control.
+
+- **Tech Stack:** Laravel 10, MySQL, Bootstrap 5, Spatie Role & Permission, Livewire
+- **Live Demo:** [ptkti.alwaysdata.net](https://ptkti.alwaysdata.net/)
+- **Demo Credentials:**  
+  > Username: `tamu`  
+  > Password: `tamu`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E9AFE?style=for-the-badge&logo=vercel&logoColor=white)](https://ptkti.alwaysdata.net/)
+*Source code available upon request.*
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adimaulana2008&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=adimaulana2008&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimaulana2008&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
+<!-- Activity Graph -->
+## 📈 Contribution Activity (Last 31 days)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adimaulana2008&theme=gruvbox&hide_border=true" alt="Activity Graph" />
+
+---
+
+<!-- Connect with Me -->
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adimaulana2008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://adimaulana2008.github.io/biodata.github.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#) *(Coming soon)*
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/#) *(Coming soon)*
 
 ---
 
-## 📈 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
-
----
-
-⭐️ *Feel free to fork this template and make it your own!*
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adimaulana2008&color=2E9AFE&style=flat-square" alt="Visitor Counter" />
+</div>
