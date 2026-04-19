@@ -1,35 +1,35 @@
-# 👋 Hai, Saya **Adi Maulana**!
+# 👋 Hi, I'm **Adi Maulana**!
 
-> *Backend & System Architecture Enthusiast | 18 tahun | Pembelajar seumur hidup*
+> *Backend & System Architecture Enthusiast | 18 years old | Lifelong learner*
 
-Saya seorang pengembang perangkat lunak yang fokus pada logika sisi server dan arsitektur sistem. Saya memiliki pengalaman membangun aplikasi desktop dengan **C#** dan aplikasi web menggunakan **Laravel**. Komitmen tinggi terhadap efisiensi kode dan struktur database yang optimal.
-
----
-
-## 🧠 Tentang Saya
-
-- 🎯 **Backend & Logika**: Mahir di Laravel (termasuk implementasi **Spatie Role & Permission**) dan C# Windows Forms.
-- 🔌 **Integrasi API**: Berpengalaman mengintegrasikan API pihak ketiga, seperti sistem pelacakan paket otomatis.
-- 🗄️ **Database**: Fokus pada MySQL dengan aturan optimasi ketat (misal pembatasan karakter pada unique key untuk performa maksimal).
-- ☁️ **Deployment**: Terbiasa mengelola environment hosting di **Alwaysdata** melalui SSH dan alur kerja Git.
+I'm a software developer focused on server-side logic and system architecture. I have experience building desktop applications with **C#** and web applications using **Laravel**. I'm highly committed to code efficiency and optimal database structures.
 
 ---
 
-## 📦 Proyek Unggulan
+## 🧠 About Me
 
-### 📝 Aplikasi Pencatatan Barang (Laravel)
+- 🎯 **Backend & Logic**: Proficient in Laravel (including **Spatie Role & Permission** implementation) and C# Windows Forms.
+- 🔌 **API Integration**: Experienced in integrating third‑party APIs, such as automated package tracking systems.
+- 🗄️ **Database**: Focused on MySQL with strict optimization rules (e.g., character limits on unique keys for maximum performance).
+- ☁️ **Deployment**: Familiar with managing hosting environments on **Alwaysdata** via SSH and Git‑based workflows.
 
-Sistem manajemen inventaris barang yang dibangun dengan **Laravel 10**, **MySQL**, dan **Bootstrap 5**. Mendukung autentikasi multi-role, CRUD barang, pencarian, serta laporan stok. Proyek ini menggunakan **Spatie Role & Permission** untuk manajemen akses dan di-deploy langsung ke Alwaysdata via Git.
+---
 
-🔗 **Demo Live**: [https://ptkti.alwaysdata.net/](https://ptkti.alwaysdata.net/)  
+## 📦 Featured Project
+
+### 📝 Item Recording App (Laravel)
+
+An inventory management system built with **Laravel 10**, **MySQL**, and **Bootstrap 5**. It supports multi‑role authentication, full CRUD operations, search functionality, and reports for item receiving and retrieval. This project uses **Spatie Role & Permission** for access control and is deployed directly to Alwaysdata via Git.
+
+🔗 **Live Demo**: [https://ptkti.alwaysdata.net/](https://ptkti.alwaysdata.net/)  
 👤 **Username**: `tamu`  
 🔐 **Password**: `tamu`
 
-> *Silakan login menggunakan kredensial di atas untuk mencoba fitur pencatatan, edit, dan hapus barang.*
+> *Log in with the credentials above to try out the recording, editing, and deletion features.*
 
 ---
 
-## 🌐 Sosial Media
+## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adimaulana2008)
 
@@ -54,7 +54,7 @@ Sistem manajemen inventaris barang yang dibangun dengan **Laravel 10**, **MySQL*
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=adimaulana2008&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -66,4 +66,4 @@ Sistem manajemen inventaris barang yang dibangun dengan **Laravel 10**, **MySQL*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=adimaulana2008&icon=0&color=0)
 
-<!-- README ini diperbarui dengan semangat open source dan continuous learning -->
+<!-- This README is crafted with open source spirit and a passion for continuous learning -->
