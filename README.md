@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2E9AFE&width=500&lines=Backend+%26+System+Architecture+Enthusiast;18+years+old;Lifelong+Learner" alt="Typing SVG" />
   <br/>
-  <h1>👋 Hi, I'm Adi Maulana</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> Hi, I'm Adi Maulana</h1>
 </div>
 
 ---
