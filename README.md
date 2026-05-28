@@ -59,12 +59,12 @@
 > An inventory management system built with **Laravel 10**, **MySQL**, and **Bootstrap 5**. Supports multi-role authentication, full CRUD operations, search, and reports for item receiving/retrieval. Uses **Spatie Role & Permission** for fine-grained access control.
 
 - **Tech Stack:** Laravel 10, MySQL, Bootstrap 5, Spatie Role & Permission, Livewire
-- **Live Demo:** [ptkti.alwaysdata.net](https://adpackage.alwaysdata.net/)
+- **Live Demo:** [adpackage.alwaysdata.net](https://adpackage.alwaysdata.net/)
 - **Demo Credentials:**  
   > Username: `tamu`  
   > Password: `tamu`
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2E9AFE?style=for-the-badge&logo=vercel&logoColor=white)](https://ptkti.alwaysdata.net/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2E9AFE?style=for-the-badge&logo=vercel&logoColor=white)](https://adpackage.alwaysdata.net/)
 
 ---
 
